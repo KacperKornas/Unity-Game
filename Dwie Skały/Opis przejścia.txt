@@ -1,0 +1,162 @@
+Witaj, wielki poszukiwaczu przygód! W tym zakątku wszechświata przygotowaliśmy dla Ciebie mapę, 
+która przeprowadzi Cię przez labirynt kolejnego etapu twojej wyprawy. 
+Choć zachęcamy Cię do odkrywania ścieżek samodzielnie, nie wahaj się sięgnąć po nasze wskazówki, 
+gdy tylko poczujesz się zagubiony w morzu tajemnic i wyzwań. Gotów jesteś wyruszyć w podróż pełną niebezpieczeństw i niespodzianek?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zajrzyj niżej gdy nie wiesz jak ukończyć grę, albo jesteś ciekaw czy niczego nie pominąłeś. (Uwaga Spojlery!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Wyjdź ze statku przez górę piasku i dziób. Następnie kieruj się za częściami statku.
+
+
+
+
+
+
+
+
+
+
+2. Na rozwidleniu ścieżek skręć w lewo i podąrzaj za ścieżką do schodów w skale.
+
+
+
+
+
+
+
+
+
+3. Wyjdź na szczyt i przeczytaj wskazówkę na kamieniu.
+
+
+
+
+
+
+
+
+4. Wróć tą samą drogą i tym razem na rozwidleniu, wybierz drugą drogę. Kieruj się nią aż do wioski.
+
+
+
+
+
+
+
+
+
+5. Niebieskie kwiaty prowadzą za wioskę do ściętego pnia drzewa.
+
+
+
+
+
+
+6. Przy pniu są zarośla, przejdź przez nie i przez cały tunel.
+
+
+
+
+
+
+7. Idź za ścieżką do ogromnego drzewa. Przeczytaj wskazówkę na kamieniu.
+
+
+
+
+
+
+
+8. Idź do domu na wzgórzu, wejdź przez drzwi i wejdź w szafę, która stoi obok łóżka.
+
+
+
+
+
+9. Powinieneś trafić do mnrocznego świata. Wyjdź z budynku i idź do drzewa. Przeczytaj wskazówkę na kamieniu.
+
+
+
+
+
+
+10. Kształt wyspy się nie zmienił, tunel jest ten sam, którym wcześniej szedłeś. W razie problemów idź wzdłóż ściany/skał.
+
+
+
+
+
+
+11. Idź na cmentarz. 
+
+
+
+
+
+12. Przeczytaj wskazówkę na kamieniu.
+
+
+
+
+
+
+13.Wybierz grób wchodząc do niego. 
+
+
+
+
+
+
+14. Wybierając grób z lewej strony umierasz - koniec gry.
+	Wybierając grób z prawej strony przenosisz się do kajuty na statku.
+	Przeczytaj opis na kamieniu, Przejdź przez drzwi, dowiesz się, że to był tylko sen...
+	Wygrywasz! Bo to był tylko sen prawda?
+
+(niestety brakło mi czasu na odpowiednie udekorowanie poziomu, jednak najważniejszy zarys fabularny został przedstawiony,
+chciałem też naprawić przyciski i dodać możliwość wyjścia z gry bez menadżera urządzeń, kwestia 4h, jednak pisze to już o 23:47 :/)
